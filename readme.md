@@ -16,6 +16,7 @@ npm run dev
 ### Compiles and minifies for production
 ```
 npm run build
+```
 
 ## Technologies used
 - Knex
@@ -25,6 +26,8 @@ npm run build
 - Bootstrap
 - Vue / Vuex / Vue Router
 - Stripe API
+
+
 
 
 
